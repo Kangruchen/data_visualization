@@ -2,7 +2,7 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "Run Rainfall Animation",
+			"label": "Run Hong Kong Rainfall Animation",
 			"type": "shell",
 			"command": "D:/Python/python.exe",
 			"args": [
